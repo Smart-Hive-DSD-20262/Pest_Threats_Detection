@@ -13,7 +13,7 @@ BeeAlarmed was selected as the primary dataset because its visual context is clo
 - Framework: Ultralytics 8.4.177.
 - Initial checkpoint: `yolo11n.pt`.
 - Image size: 640 pixels.
-- Random seed: 42.
+- Random seed: 98.
 
 ## 3. Training Configuration
 
